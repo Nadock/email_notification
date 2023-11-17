@@ -31,7 +31,7 @@ Hello, this email is an automated message.
 
 1. You will need a Gmail account, or some other way to send emails directly via SMTP.
 2. If you have 2FA enabled on your Gmail account, you will need an application password. Follow [Google's guide here](https://support.google.com/a/answer/176600?hl=en&fl=1&sjid=16353985817184141519-NC) to generate one.
-3. Put your Gmail password in the file `./smtp_password.txt`.
+3. Make a file called `smtp_password.txt` in the repo directory and put your Gmail account or application password in that file.
 4. You may also want to [setup an email filter](https://support.google.com/mail/answer/6579?hl=en), but if you do be sure it is still delivered to your inbox.
 
 #### Self-Sending Additional Setup
